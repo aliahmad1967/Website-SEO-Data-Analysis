@@ -349,7 +349,7 @@ def main():
     max_position_quick = st.sidebar.slider("Maximum Position for Quick Wins", 20, 50, 20)
     
     st.sidebar.markdown("---")
-    st.sidebar.subheader("⭐ For Power Members")
+    st.sidebar.subheader("⭐ For Power Members  https://learnwithhasan.com")
 
     # Checkbox for keyword metrics
     include_metrics = st.sidebar.checkbox("Include additional keyword metrics")
